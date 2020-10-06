@@ -10,7 +10,7 @@ The palette strikes the perfect balance between dreamy pastels and high contrast
 
 Implementation of Handcrafted is tweaked for each editor. This way, we cater to the specific subtleties of the way that editor uses syntax highlighting.
 
-## How to install Handcrafted Terminal.app theme
+## How to install Handcrafted iTerm2 theme
 
 - Double-click on Handcrafted.itermcolors
 - `⌘,` into settings
