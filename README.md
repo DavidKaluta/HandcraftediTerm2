@@ -1,5 +1,7 @@
 # [Handcrafted](https://hand.engineering/handcrafted) Theme for iTerm2
 
+## Originally by Lewis Flude [@lewisflude](https://github.com/lewisflude)
+
 ![handcrafted](https://github.com/davidkaluta/HandcraftediTerm2/raw/main/images/handcrafted-banner-half.png)
 
 ![Screenshot](https://github.com/davidkaluta/HandcraftediTerm2/raw/main/images/iterm-screenshot.png)
