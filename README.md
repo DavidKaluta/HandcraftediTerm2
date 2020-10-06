@@ -12,7 +12,9 @@ Implementation of Handcrafted is tweaked for each editor. This way, we cater to 
 
 ## How to install Handcrafted Terminal.app theme
 
-- Go to preferences in Terminal.app
-- Go to the profiles tab
-- Select the "three dots in circle" icon at the bottom left
-- Click import and select Handcrafted.terminal
+- Double-click on Handcrafted.itermcolors
+- `⌘,` into settings
+- Go to the "Profiles" section
+- Pick your profile on the left
+- Open the "Colors" tab
+- Pick "Handcrafted"
