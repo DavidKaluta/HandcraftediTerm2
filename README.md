@@ -1,8 +1,8 @@
-# [Handcrafted](https://hand.engineering/handcrafted) Theme for Terminal.app
+# [Handcrafted](https://hand.engineering/handcrafted) Theme for iTerm2
 
-![handcrafted](https://github.com/lewisflude/HandcraftedTerminalApp/raw/main/images/handcrafted-banner-half.png)
+![handcrafted](https://github.com/davidkaluta/HandcraftediTerm2/raw/main/images/handcrafted-banner-half.png)
 
-![Screenshot](https://github.com/lewisflude/HandcraftedTerminalApp/raw/main/images/terminal-screenshot.png)
+![Screenshot](https://github.com/davidkaluta/HandcraftediTerm2/raw/main/images/iterm-screenshot.png)
 
 A beautiful dark theme for modern screens. Handcrafted uses colours from the CIELAB colour space. Each colour in the palette has an intentional level of brightness. This gives a sense of order and hierarchy to your editor.
 
